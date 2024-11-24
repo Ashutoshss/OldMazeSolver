@@ -1,3 +1,2 @@
 # OldMazeSolver
-##I will upload the video link as soon as I get some time.
-![oldmazesolver](https://github.com/user-attachments/assets/3e64279b-a564-476f-b2da-1cbd058f618d)
+https://github.com/user-attachments/assets/53d93ba6-8127-470f-9584-e9ac8779f74b
